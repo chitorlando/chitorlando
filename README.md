@@ -25,7 +25,7 @@ Oracle ![Oracle](https://img.shields.io/badge/-%20-F80000?style=flat&logo=oracle
 
 ## 🧱 Proyectos:
 
-### 🚙 [Autazo](autazo.com)
+### 🚙 [Autazo](https://autazo.com)
 ### 🏡 [Un buen lugar](unbuenlugar.com)
 ### 🚛 [Sinotruk](sinotruk.com.ec)
 ### 👕 [Vibes](vibesdress.com)
