@@ -1,14 +1,14 @@
 # 👋 ¡Hola! Soy Luis Salazar
 
-💻 Soy desarrollador de software profesional desde 2023.
+## 💻 Soy desarrollador de software profesional desde 2023.
 
 He trabajado en distintas empresas importantes del sector, creando [Nameless](https://namelessec.com) en 2025 como consultora de Software para dedicarme a desarrollar aplicaciones a tiempo completo junto a mi colega y amigo David Constante, llegando a colaborar con empresas de distintas partes del mundo. He desarrollado en solitario más de 10 proyectos.
 
 Desde 2022 comienzo a crear mis proyectos como freelance. También he sido docente de programación e inglés básico.
 
-🚀 Actualmente trabajando en Kruger Corp 
+## 🚀 Actualmente trabajando en Kruger Corp 
 
-🔧 Tecnologías:
+## 🔧 Tecnologías:
 
 TypeScript ![TS](https://img.shields.io/badge/-%20-3178C6?style=flat&logo=typescript&logoColor=white) | JavaScript ![JavaScript](https://img.shields.io/badge/-%20-F7DF1E?style=flat&logo=javascript&logoColor=black) | React ![React](https://img.shields.io/badge/-%20-20232A?style=flat&logo=react&logoColor=61DAFB) | Astro ![Astro](https://img.shields.io/badge/-%20-FF5D01?style=flat&logo=astro&logoColor=white) | IBM RPA ![RPA](https://img.shields.io/badge/-%20-0088CE?style=flat&logo=automation-anywhere&logoColor=white) | Flutter ![Flutter](https://img.shields.io/badge/-%20-02569B?style=flat&logo=flutter&logoColor=white) | NextJS ![Next.js](https://img.shields.io/badge/-%20-000000?style=flat&logo=next.js&logoColor=white) |
 <br/>
@@ -23,8 +23,13 @@ SQL Server ![SQL Server](https://img.shields.io/badge/-%20-CC2927?style=flat&log
 Oracle ![Oracle](https://img.shields.io/badge/-%20-F80000?style=flat&logo=oracle&logoColor=white)
  | Java ![Java](https://img.shields.io/badge/-%20-007396?style=flat&logo=openjdk&logoColor=white)
 
+## 🧱 Proyectos:
 
-
+### 🚙 [Autazo](autazo.com)
+### 🏡 [Un buen lugar](unbuenlugar.com)
+### 🚛 [Sinotruk](sinotruk.com.ec)
+### 👕 [Vibes](vibesdress.com)
+### 🧠 [Menntun](menntun.edu.ec)
 
 ### 📫 Contáctame:
 - Email: xitodx16@gmail.com
