@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Luis Salazar
 
-<!--
-**chitorlando/chitorlando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Ingeniero en Tecnologías de la Información  
+🚀 Actualmente trabajando en Kruger Corp  
+🔧 Tecnologías: TypeScript | NestJS | React | Astro | IBM RPA
 
-Here are some ideas to get you started:
+## 🚧 En construcción...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Proyectos actuales: Webs en Next.js y WordPress
+- 🌱 Aprendiendo: Criptomonedas, RPA y arquitectura de software
+- ✨ Planeo fundar una consultora de software llamada [namelessec.com](https://namelessec.com)
+
+---
+
+### 📫 Contáctame:
+- Email: luis.tuemail@example.com
+- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
