@@ -31,6 +31,15 @@ Oracle ![Oracle](https://img.shields.io/badge/-%20-F80000?style=flat&logo=oracle
 ### 👕 [Vibes](https://vibesdress.com)
 ### 🧠 [Menntun](https://menntun.edu.ec)
 
+## 👨🏻‍💻 Mi web:
+
+### [chitorlando](https://chitorlando.com)
+
+## 👨🏻‍💻 Nameless web:
+
+### [Nameless](https://namelessec.com)
+
+
 ### 📫 Contáctame:
 - Email: xitodx16@gmail.com
 - LinkedIn: [linkedin.com/in/chitorlando](https://linkedin.com/in/chitorlando)
