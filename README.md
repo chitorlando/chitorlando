@@ -26,10 +26,10 @@ Oracle ![Oracle](https://img.shields.io/badge/-%20-F80000?style=flat&logo=oracle
 ## 🧱 Proyectos:
 
 ### 🚙 [Autazo](https://autazo.com)
-### 🏡 [Un buen lugar](unbuenlugar.com)
-### 🚛 [Sinotruk](sinotruk.com.ec)
-### 👕 [Vibes](vibesdress.com)
-### 🧠 [Menntun](menntun.edu.ec)
+### 🏡 [Un buen lugar](http://unbuenlugar.com)
+### 🚛 [Sinotruk](https://sinotruk.com.ec)
+### 👕 [Vibes](https://vibesdress.com)
+### 🧠 [Menntun](https://menntun.edu.ec)
 
 ### 📫 Contáctame:
 - Email: xitodx16@gmail.com
