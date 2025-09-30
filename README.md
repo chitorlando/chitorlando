@@ -35,10 +35,6 @@ Oracle ![Oracle](https://img.shields.io/badge/-%20-F80000?style=flat&logo=oracle
 
 ### [chitorlando](https://chitorlando.com)
 
-## 👨🏻‍💻 Nameless web:
-
-### [Nameless](https://namelessec.com)
-
 
 ### 📫 Contáctame:
 - Email: xitodx16@gmail.com
