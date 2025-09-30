@@ -1,8 +1,8 @@
 # 👋 ¡Hola! Soy Luis Salazar
 
-## 💻 Soy desarrollador de software profesional desde 2023.
+## 💻 Soy desarrollador de software profesional desde 2022.
 
-He trabajado en distintas empresas importantes del sector, creando [Nameless](https://namelessec.com) en 2025 como consultora de Software para dedicarme a desarrollar aplicaciones a tiempo completo, llegando a colaborar con empresas de distintas partes del mundo. He desarrollado en solitario más de 10 proyectos.
+He trabajado en distintas empresas importantes del sector, llegando a colaborar con empresas de distintas partes del mundo. He desarrollado en solitario más de 10 proyectos.
 
 Desde 2022 comienzo a crear mis proyectos como freelance. También he sido docente de programación e inglés básico.
 
